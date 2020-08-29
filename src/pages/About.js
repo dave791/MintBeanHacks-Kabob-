@@ -9,7 +9,7 @@ function About() {
       <div>
         <p className="About-content">
           Kebob is a personal Kanban website for developers to plan their
-          objectives for their personal projects in an organizable way. <br />{" "}
+          objectives for their personal projects in an organizable way. <br />
           It benefits them to create description cards for to complete certain
           tasks at different time frames. <br /> It helps them complete their
           objectives efficiently whether specifying what feature of a product is
